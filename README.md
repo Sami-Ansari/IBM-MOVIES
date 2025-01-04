@@ -1,4 +1,4 @@
-# Project Title
+# NLP Project
 
 Welcome to this project! Below, you'll find information about the purpose and setup of the project.
 
