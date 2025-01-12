@@ -10,7 +10,7 @@ This project leverages advanced tools and technologies to deliver powerful and e
 
 Access the interactive notebook using the link below:
 
-[Open in Google Colab](https://colab.research.google.com/drive/1KfqWpn2867S1z-AmrA-XWkcZQpr-WoX)
+[Open in Google Colab](https://colab.research.google.com/drive/162nFibkh4wmDwz7ZIym0XRPYhL9D7KnC?usp=sharing)
 
 ## Getting Started
 
